@@ -1,0 +1,117 @@
+.border1{
+    display: flex;
+    height: 86.5vh;
+    border-radius: 20px;
+    width: auto;
+    background: linear-gradient(180deg, transparent,rgb(165, 219, 165));
+}
+.border2{
+    height: 86.5vh;
+    width: 60%;
+}
+.border3{
+    height: 86.5vh;
+    width: 50%;
+}
+.right img{
+    max-width: 60%;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.left{
+    max-width: 50%;
+}
+.thumbh1{
+    font-weight: 400;
+    box-sizing: border-box;
+    margin-top: 20%;
+}
+.thumbh2{
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 450;
+    /* line-height: 1.2; */
+    font-style: italic;
+    margin-left: -12%;
+}
+.thumbh3 img{
+max-width: 5%;
+}
+.thumbh3{
+    margin-left: -5%;
+}
+.homep{
+    font-weight: 420;
+    box-sizing: border-box;
+    margin-top: 9%;
+    font-size: 22px;
+    font-style: oblique;
+}
+.courses{
+    background: linear-gradient(180deg,rgb(165, 169, 219),transparent);
+    border-radius: 20px;
+    margin-top: -40px;
+}
+@media only screen and (max-width: 600px) {
+    .border1{
+        border-radius: 15px;
+        display: table-row;
+        height: 85.5vh;
+        width: auto;
+        background: linear-gradient(180deg, transparent,rgb(165, 219, 165));
+    }
+    .border2{
+        height: 50%;
+        width: 100%;
+    }
+    .border3{
+        height: 50%;
+        width: 100%;
+    }
+    .right img {
+        max-width: 60%;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .left{
+        max-width: 100%;
+    }
+    .thumbh1 {
+        font-weight: 400;
+        box-sizing: border-box;
+        margin-top: 2%;
+        text-align: center;
+        margin-top: 10%;
+    }
+    .thumbh2 {
+        font-weight: 400;
+        box-sizing: border-box;
+        text-align: center;
+        padding-left: 5%;
+        margin-top: 10%;
+    }
+    .thumbh3 {
+        font-weight: 400;
+        box-sizing: border-box;
+        font-size: 19px;
+        text-align: center;
+        margin-top: 10%;
+    }
+    .homep{
+        font-weight: 400;
+        box-sizing: border-box;
+        margin-top: 2%;
+        font-size: 18px;
+        font-style: oblique;
+        text-align: center;
+        margin-top: 10%;
+    }
+    .get-start{
+    margin-top: 10%;
+    }
+    .courses{
+        background: linear-gradient(180deg,rgb(165, 169, 219),transparent);
+        border-radius: 20px;
+        margin-top: -10px;
+    }
+  }
