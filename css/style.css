@@ -52,6 +52,41 @@ max-width: 5%;
     border-radius: 20px;
     margin-top: -40px;
 }
+.ssc-exams{
+    margin-top: 2%;
+}
+.sbtn{
+    margin: 20px 20px 20px 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 600px) {
     .border1{
         border-radius: 15px;
@@ -115,3 +150,4 @@ max-width: 5%;
         margin-top: -10px;
     }
   }
+
