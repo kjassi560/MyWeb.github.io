@@ -60,7 +60,9 @@ max-width: 5%;
     margin-left: 50px;
     margin-right: 50px;
 }
-
+.nxt img{
+  max-width: 60%;
+}
 
 
 
